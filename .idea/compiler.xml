@@ -9,5 +9,8 @@
         <module name="Integr" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="rabbitmq-console" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
